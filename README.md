@@ -33,7 +33,6 @@ The layout focuses on clarity and simplicity.
 <img width="713" height="448" alt="Screenshot From 2026-02-02 15-53-24" src="https://github.com/user-attachments/assets/6ae33323-6305-462d-86f0-c3ef35f16336" />
 
 
-## Forgot To Mention But the top of the hackpad is made using cut clear acrylic panel that is why it is left hollow ( Grants Required for acrylic panel )
 
 The case was designed in Free Cad .  
 Dimensions were taken directly from the PCB.  
